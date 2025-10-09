@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ISYS6003_A3_AR_Story_.sln"
+    "dotnet.defaultSolution": "ISYS6003_A3_AR_Story_BD.sln"
 }
