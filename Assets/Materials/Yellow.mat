@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Yellow
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: 2100000, guid: 0cad59e88bc484547949900ca355538e, type: 2}
+  m_Parent: {fileID: 2100000, guid: 4832aceb1eca9774a867c6d6d20b28bf, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -27,8 +27,8 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _BaseColor: {r: 1, g: 0.9259279, b: 0, a: 1}
-    - _Color: {r: 1, g: 0.9259279, b: 0, a: 1}
+    - _BaseColor: {r: 0.6226415, g: 0.6226415, b: 0.30838376, a: 1}
+    - _Color: {r: 0.62264144, g: 0.62264144, b: 0.3083837, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &4159609019879796281
 MonoBehaviour:
