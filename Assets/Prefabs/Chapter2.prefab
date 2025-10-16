@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1112032983563518839}
   - component: {fileID: 3744159333913240928}
   m_Layer: 0
-  m_Name: Audio Source Narration 1
+  m_Name: Audio Source Narration
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -42,9 +42,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1c889b8efa18dee43b69fe9009bc61ab, type: 3}
+  m_audioClip: {fileID: 8300000, guid: d623bf9443bf2458789e88a71905db9d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.607
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -139,7 +139,7 @@ GameObject:
   - component: {fileID: 2267577177544269529}
   - component: {fileID: 448036584538830351}
   m_Layer: 0
-  m_Name: Audio Source Birds
+  m_Name: Audio Source Dog
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -170,11 +170,11 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d1a8b37ecf842b044a7315a41173e23e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: df7e04565555f4f7eb10b0c29a6cac97, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.501
+  m_Volume: 0.1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -289,9 +289,9 @@ Transform:
   - {fileID: 6394030335327642176}
   - {fileID: 1432400573993224310}
   - {fileID: 3623274104439476107}
+  - {fileID: 1112032983563518839}
   - {fileID: 6909120815946802640}
   - {fileID: 2267577177544269529}
-  - {fileID: 1112032983563518839}
   - {fileID: 2011653179888128579}
   - {fileID: 4156915678586645098}
   - {fileID: 3901689628400921056}
@@ -318,7 +318,7 @@ GameObject:
   - component: {fileID: 6909120815946802640}
   - component: {fileID: 3523607711078004795}
   m_Layer: 0
-  m_Name: Audio Source Horse Grazing
+  m_Name: Audio Source Bird
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -349,9 +349,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: afc2793ba282c1d42990df10c7ae946c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 518ab4be9f39e41da843d841e8ba87a6, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.501
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 1
   Mute: 0
